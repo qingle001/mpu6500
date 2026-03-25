@@ -1,0 +1,17 @@
+{
+  "idf.currentSetup": "C:\\Users\\qingle\\esp\\v5.5.2\\esp-idf",
+  "idf.openOcdConfigs": [
+    "board/esp32c3-builtin.cfg"
+  ],
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32c3"
+  },
+  "idf.portWin": "COM4",
+  "clangd.path": "C:\\Users\\qingle\\.espressif\\tools\\esp-clang\\esp-19.1.2_20250312\\esp-clang\\bin\\clangd.exe",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=**",
+    "--compile-commands-dir=d:\\esp32c3\\mpu6500\\build"
+  ],
+  "idf.flashType": "UART"
+}

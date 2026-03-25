@@ -1,0 +1,2 @@
+source D:/esp32c3/mpu6500/build/bootloader/gdbinit/symbols
+source D:/esp32c3/mpu6500/build/bootloader/gdbinit/connect
